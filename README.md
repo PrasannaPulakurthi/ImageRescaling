@@ -1,5 +1,3 @@
 # ImageRescaling 
 
-Demo for Testing the Network 
-
- ![Open In Colab]
+Demo for Testing the Network in Google Colab can be found here. 
